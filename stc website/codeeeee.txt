@@ -1,0 +1,103 @@
+ <div style="display: flex; justify-content:center; justify-content:space-around ;"> 
+<div >
+  <div style=width:300px> 
+    <img style ="border: solid 5px black" src="pics/men running shoes 1.png" width="250" height="250">
+       shoes id for ordering: 1 
+        <a href="pics/men running shoes 1.png" download>download picture </a>
+       <a href="pics/men running shoes 1.png" >open picture </a> </div>                                                                                                                                
+
+       <div style=width:300px> <img style ="border: solid 5px black"src="pics/men running shoes 2.png" width="250" height="250">
+        shoes id for ordering: 2  <a href="pics/men running shoes 2.png" download>download picture </a>
+        <a href="pics/men running shoes 2.png" >open picture </a></div>
+
+
+
+        <div style=width:300px>
+          <img style ="border: solid 5px black"src="pics/men running shoes 3.png" width="250" height="250">
+        shoes id for ordering: 3</div>
+      </div>
+       
+
+        <div style=width:300px><img style ="border: solid 5px black"src="pics/men running shoes 4.png" width="250" height="250">
+        shoes id for ordering: 4</div>
+       <div style=width:300px>
+        <img style ="border: solid 5px black" src="pics/men running shoes 6.webp" width="250" height="250">
+        shoes id for ordering: 5</div> 
+        
+
+
+  <div style=width:300px><img style ="border: solid 5px black" src="pics/men running shoes 7.png" width="250" height="250">
+         shoes id for ordering: 6</div>
+         
+         <div style=width:300px><img style ="border: solid 5px black" src="pics/men running shoes 8.png" width="250" height="250">
+         shoes id for ordering: 7</div>
+
+         <div style=width:300px><img style ="border: solid 5px black" src="pics/men running shoes 9.png" width="250" height="250">
+         shoes id for ordering: 8</div>
+         
+
+          <div style=width:300px><img style ="border: solid 5px black" src="pics/men running shoes 10.png" width="250" height="250">
+         shoes id for ordering: 9</div> 
+         <div><audio src="audio/background music.mp3" controls></audio></div>
+ 
+         
+      </div></pre>
+      
+
+          <div><pre> this page is for the sports tools you may need >> 
+            not just any tools these are amazon's
+       
+           <iframe
+        src="https://www.amazon.com/s?k=sports+tools&crid=1O41FRH5NZPV3&sprefix=sports+tools%2Caps%2C264&ref=nb_sb_noss_1"
+        width=650 height="750"></iframe></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <center>
+    <h1 style="color: rgb(0, 123, 255)"> we have everything you might need ladies </h1>
+    <h2 style="color: rgb(0, 123, 255)"> if you have something specific in mind please contact us </h2>
+    <br>
+    <br>
+    <img src="C:\Users\96597\Documents\stc website\pics\sports tools 2.jpeg" width="500">
+    <br>
+    <img style ="border: solid 5px black" src="pics/women  running shoes 1.png" width="250" height="250">
+     shoes id for ordering: 1  <a href="pics/women  running shoes 1.png" download>download picture </a>
+       <a href="pics/women  running shoes 1.png" >open picture </a>
+       <img style ="border: solid 5px black" src="pics/women  running shoes 2.png" width="250" height="250">
+     shoes id for ordering: 2  <a href="pics/women  running shoes 2.png" download>download picture </a>
+       <a href="pics/women  running shoes 2.png" >open picture </a>
+       <br>
+       <br>
+       <img style ="border: solid 5px black" src="pics/women  running shoes 3.png 3.png" width="250" height="250">
+     shoes id for ordering: 3
+     <br>
+       <br>
+     <img style ="border: solid 5px black" src="pics/women  running shoes 4.png" width="250" height="250">
+     shoes id for ordering: 4 
+     <br>
+       <br>
+       <img style ="border: solid 5px black" src="pics/women  running shoes 5.png" width="250" height="250">
+     shoes id for ordering: 5 
+     <br>
+     <br>
+     <img style ="border: solid 5px black" src="pics/women  running shoes 6.webp" width="250" height="250">
+     shoes id for ordering: 6
+    <br>
+    <br>
+    <img style ="border: solid 5px black" src="pics/women  running shoes 7.webp" width="250" height="250">
+     shoes id for ordering: 7
+     <br>
+     <br>
+    <audio src="audio/background music.mp3" controls></audio>
+  </center>
